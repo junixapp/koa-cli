@@ -2,7 +2,8 @@
   "name": "koa-cli",
   "version": "1.0.0",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "dev": "node app-dev.js"
   },
   "author": "lixiaojun",
   "license": "ISC",
